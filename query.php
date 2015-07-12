@@ -1,4 +1,5 @@
 <?php
+require_once("connect.php");
 
 $query = $_GET["searchbox"];
 
