@@ -1,0 +1,35 @@
+body { 
+  background: url(../imgs/food_bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.page-header {
+    background: rgba(255, 255, 255, .85);
+}
+
+.glyphicon {
+    font-size: 20px;
+}
+
+div {
+    border: dotted 1px black;
+}
+
+footer {
+    color: white;
+}
+
+a {
+    color: #FF759C;
+}
+
+a:hover {
+    color: #FF759C;
+}
+
+.input-group-lg {
+    width: 90%;
+}

@@ -1,0 +1,11 @@
+<?php
+// constants.php for foodcalc queries
+define("DB_NAME", "myDatabase");
+
+define("DB_PASSWORD" "myDatabasePass");
+
+define("DB_SERVER", "localhost");
+
+define("DB_USERNAME", "myUsername");
+
+?>
